@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: aqua;
+}
+#box1{
+    width: 500px;
+    height: 400px;
+    background-color: #e0e0e0;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+}
