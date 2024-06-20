@@ -25,7 +25,6 @@ body{
     justify-content: space-between;
     align-self: center;
     flex-direction: column;
-    background-color:aqua ;
 }
 
 #Rules{
@@ -39,6 +38,7 @@ body{
     border: 2px solid black;
     justify-content: center;
     align-items:center;
+    background-color:aqua ;
     flex-direction: column;
 }
 .die2{
@@ -48,6 +48,7 @@ body{
     border: 2px solid black;
     justify-content: center;
     align-items:center;
+    background-color:aqua ;
     flex-direction: column;
 }
 
@@ -62,15 +63,16 @@ body{
     border: 2px solid black;
     justify-content: center;
     align-items:center;
+    background-color:aqua ;
     flex-direction: column;
 }
 
 #d3{
-    width:300px;
+    width: 275px;
     height: 300px;
     overflow-y: auto;
     border: 1px solid #000;
-    background-color: #fff;
+    background-color: aqua;
     padding : 10px;
     margin-top: 10px;
    
